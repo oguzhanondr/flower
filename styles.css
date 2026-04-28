@@ -2964,18 +2964,18 @@ select {
 }
 
 .note-card__title {
-  font-size: clamp(1.34rem, 3vw, 2rem);
-  line-height: 1.02;
+  font-size: clamp(1.2rem, 2.5vw, 1.78rem);
+  line-height: 1.08;
   letter-spacing: 0.01em;
   color: #84525d;
 }
 
 .note-card__body {
   display: block;
-  font-size: clamp(0.92rem, 1.64vw, 1.06rem);
-  line-height: 1.7;
+  font-size: clamp(0.84rem, 1.32vw, 0.95rem);
+  line-height: 1.52;
   color: rgba(116, 80, 82, 0.8);
-  max-width: 35ch;
+  max-width: 42ch;
   white-space: pre-line;
   text-align: justify;
   text-align-last: left;

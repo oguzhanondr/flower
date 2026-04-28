@@ -397,11 +397,11 @@ function getHeartPhaseSettings(
 const romanticNote: NoteCopy = {
   closedLabel: "senin için bir not",
   eyebrow: "",
-  title: "Doğum günün kutlu olsun, Şeyda. \u{1F338}",
+  title: "iyi ki varsın şeyda \u{1F338}",
   body: [
-    "Umarım günün, senin kadar güzel geçmiştir.",
-    "Eğer bu buket konuşabilseydi, sana sadece şunu söylerdi: bu dünyadaki bütün güzel şeyler gelip seni bulmayı hak ediyor.",
-    "Umarım bu küçük sürpriz de içini tatlı bir heyecanla doldurmuştur. \u{1F49C}",
+    "Neredeyse tamamen renksiz olan hayatıma girdiğin andan beri kattığın renk, neşe, mutluluk ve huzur için sana teşekkür ederim.",
+    "Seninle konuşmaktan fazlasıyla keyif alıyorum; bir de senden hoşlanıyorum, haberin olsun.",
+    "Umarım bu ilişki ikimizin de istediği gibi devam eder. \u{1F49C}",
   ].join("\n"),
   signature: "",
 };
