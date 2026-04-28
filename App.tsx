@@ -3020,12 +3020,12 @@ export default function App() {
   };
   const cueLabel =
     phase === "clustered"
-      ? "sarmak için dokun"
+      ? "bir kez daha dokun"
       : phase === "arranging"
         ? "hazırlanıyor..."
         : phase === "finishing"
           ? "sarılıyor..."
-          : "düzenlemek için dokun";
+          : "ekrana dokun";
   const showButterflies =
     phase === "arranging" || phase === "clustered" || phase === "bouquet";
   const giftCreaturesReleased =
