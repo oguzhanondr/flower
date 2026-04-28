@@ -421,7 +421,7 @@ const giftPoemLines = [
 ] as const;
 
 const giftPoemFull = giftPoemLines.join("\n");
-const birthdayDayOneCardMessage = "İlişkimizin 15. günü kutlu olsun.";
+const birthdayDayOneCardMessage = "senden hoşlanıyorum";
 const secondGiftHintMessage = "Anahtar kuşlardan birinde saklı.";
 const secondGiftFoundMessage = "Anahtarı buldun. Kutu şimdi açılabilir.";
 const wrongBirdMessages = [
@@ -2303,7 +2303,7 @@ function KeyIcon({ className }: { className?: string }) {
 function BirthdayDayOneCard() {
   return (
     <div className="birthday-day-card" aria-label={birthdayDayOneCardMessage}>
-      <span className="birthday-day-card__eyebrow">şeyda için</span>
+      <span className="birthday-day-card__eyebrow">selam ya</span>
       <strong className="birthday-day-card__body">{birthdayDayOneCardMessage}</strong>
     </div>
   );
