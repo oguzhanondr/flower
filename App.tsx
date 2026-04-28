@@ -1,4 +1,4 @@
-import {
+﻿import {
   useEffect,
   useLayoutEffect,
   useMemo,
@@ -397,7 +397,7 @@ function getHeartPhaseSettings(
 const romanticNote: NoteCopy = {
   closedLabel: "senin için bir not",
   eyebrow: "",
-  title: "iyi ki varsın şeyda \u{1F338}",
+  title: "İyi ki varsın, Şeyda. \u{1F338}",
   body: [
     "Neredeyse tamamen renksiz olan hayatıma girdiğin andan beri kattığın renk, neşe, mutluluk ve huzur için sana teşekkür ederim.",
     "Seninle konuşmaktan fazlasıyla keyif alıyorum; bir de senden hoşlanıyorum, haberin olsun.",
@@ -5197,3 +5197,5 @@ export default function App() {
     </div>
   );
 }
+
+
